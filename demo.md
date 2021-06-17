@@ -1,2 +1,1 @@
-hello testing testing
-hello
+print("testing")
