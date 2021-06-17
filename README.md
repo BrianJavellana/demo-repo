@@ -2,5 +2,4 @@
 
 
 
-Watch some toturial idiot
-
+Watch some tutorial idiot
